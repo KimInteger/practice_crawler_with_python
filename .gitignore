@@ -3,3 +3,5 @@ crawler_kiminteger/
 __pycache__/
 
 crawling_data/
+
+.env
